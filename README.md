@@ -19,8 +19,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 ```
 # program to find the 1-norm of a matrix
-# Developed by : Dhandeeswaran selvakumar
-# reg no : 23006838
+# Developed by : Rajkumar G
+# reg no : 23003498
 
 import numpy as np
 value=eval(input())
@@ -33,8 +33,8 @@ print("{:.2f}".format(norm))
 
 ```
 # Program to find 2-norm of a matrix.
-# Developed by: Dhandeeswaran selvakumar
-# RegisterNumber: 23006838
+# Developed by:Rajkumar G
+# RegisterNumber: 23003498
 
 import numpy as np
 value=eval(input())
@@ -47,8 +47,8 @@ print("{:.2f}".format(norm))
 
 ```
 # Program to find infinity norm of a matrix.
-# Developed by: Dhandeeswaran selvakumar
-# RegisterNumber: 23006838
+# Developed by: Rajkumar G
+# RegisterNumber: 23003498
 
 import numpy as np
 value=eval(input())
@@ -60,15 +60,18 @@ print("{:.2f}".format(norm))
 ## Output:
 
 ### 1-Norm of a Matrix
-![output](https://github.com/dhandeeswaran2005/Norm-of-a-matrix/assets/147139188/0f797a31-921e-469f-b53e-6fd423a4132d)
+![Screenshot 2023-12-29 110734](https://github.com/Rajkumar28072005/Norm-of-a-matrix/assets/144980101/62c99524-f1ce-4380-b154-f307889bc00f)
+
 
 
 ### 2-Norm of a Matrix
-![output 1](https://github.com/dhandeeswaran2005/Norm-of-a-matrix/assets/147139188/54d120df-a3ca-4b6c-90ef-51b15c4cd8a7)
+![Screenshot 2023-12-29 110745](https://github.com/Rajkumar28072005/Norm-of-a-matrix/assets/144980101/31176628-9f19-4c6c-aec4-494c1a84f022)
+
 
 
 ### Infinity Norm of a Matrix
-![output 3](https://github.com/dhandeeswaran2005/Norm-of-a-matrix/assets/147139188/0b9405ed-e219-4d2c-b691-9098652ec388)
+![Screenshot 2023-12-29 110753](https://github.com/Rajkumar28072005/Norm-of-a-matrix/assets/144980101/9fac05a1-ef31-45e8-8cd3-022a17e127ed)
+
 
 
 ## Result
